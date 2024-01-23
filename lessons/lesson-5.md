@@ -33,4 +33,4 @@ Doc exemplificando quando isso acontece: https://www.themoderncoder.com/fix-git-
 
 --- 
 
-Podemos seguir para a próxima aula na branch `lesson-5`.
+Podemos seguir para a próxima aula na branch `lesson-6`.
