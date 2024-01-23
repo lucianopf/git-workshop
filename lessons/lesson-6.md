@@ -28,4 +28,4 @@ No final dessa aula temos a instrução errada pra seguir pra `lesson-6`, mas na
 
 --- 
 
-Podemos seguir para a próxima aula na branch `lesson-7`.
+Podemos seguir para a próxima aula na branch `lesson-6`.
