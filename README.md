@@ -19,5 +19,5 @@ Workshop de git básico e intermediário para pessoas de TI.
 6. [Aula 6 - comandos de manipulação de branches (revert)](lessons/lesson-6.md)
 7. [Aula 7 - comandos de manipulação de branches (fetch, pull)](lessons/lesson-7.md)
 8. [Aula 8 - comandos de manipulação de branches (stash)](lessons/lesson-8.md)
-9. Aula 9 - comandos de manipulação de branches (submodule)
+9. [Aula 9 - comandos de manipulação de branches (submodule)](lessons/lesson-9.md)
 10. Aula 10 - guia básico sobre interface do Github (aula extra)
