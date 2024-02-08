@@ -1,0 +1,3 @@
+[submodule "conclusion"]
+	path = conclusion
+	url = git@github.com:lucianopf/git-workshop-conclusion.git
