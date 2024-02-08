@@ -9,6 +9,7 @@ Workshop de git básico e intermediário para pessoas de TI.
 4. Criar chave SSH e adicionar no github. [Tutorial](https://docs.github.com/pt/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 
+
 ## Aulas
 
 1. [Aula 1 - fork, clone e trocar de branches](lessons/lesson-1.md)
