@@ -1,0 +1,3 @@
+[submodule "conclusion"]
+	path = conclusion
+	url = https://github.com/lucianopf/git-workshop-conclusion
