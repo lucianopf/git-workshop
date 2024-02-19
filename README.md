@@ -15,7 +15,7 @@ Workshop de git básico e intermediário para pessoas de TI.
 1. [Aula 1 - fork, clone e trocar de branches](lessons/lesson-1.md)
 2. [Aula 2 - comandos básicos de leitura (status, log)](lessons/lesson-2.md)
 3. [Pula 3 - comandos básicos de escrita (add, diff, commit, push)](lessons/lesson-3.md)
-4. Aula 4 - comandos de manipulação de branches (rebase, merge)
+4. [Aula 4 - comandos de manipulação de branches (rebase, merge)](lessons/lesson-4.md)
 5. Aula 5 - comandos de manipulação de branches (cherry-pick)
 6. Aula 6 - comandos de manipulação de branches (revert)
 7. Aula 7 - comandos de manipulação de branches (fetch, pull)
